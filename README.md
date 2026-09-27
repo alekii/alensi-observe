@@ -225,7 +225,7 @@ Each major capability should explain:
 
 ## Disclaimer
 
-Alensi Platform is a personal platform-engineering reference implementation and lab. It is intended to demonstrate technical thinking, system design, automation, observability, and operational practices. It should not be interpreted as a claim that every component reflects production-scale experience.
+Alensi Observe is a personal platform-engineering reference implementation and lab. It is intended to demonstrate technical thinking, system design, automation, observability, and operational practices. It should not be interpreted as a claim that every component reflects production-scale experience.
 
 ## License
 

@@ -1,8 +1,8 @@
-# Alensi Platform
+# Alensi Observe
 
 > Internal Developer Platform & Observability Engineering Platform
 
-Alensi Platform is a platform-engineering reference implementation and laboratory for building, deploying, observing, and operating applications reliably.
+Alensi Observe is a platform-engineering reference implementation and laboratory for building, deploying, observing, and operating applications reliably.
 
 The goal is not to build another business application. The goal is to demonstrate the engineering platform that enables teams to deliver software consistently—with standardized workflows, reliable infrastructure, actionable observability, and operational readiness built in from the start.
 

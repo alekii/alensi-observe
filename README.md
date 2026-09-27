@@ -156,7 +156,7 @@ The implementation may evolve as experiments are added. Decisions should be reco
 
 ## Portfolio Context
 
-Alensi Platform is the platform and operations layer supporting the broader Alensi portfolio:
+Alensi Observe is the platform and operations layer supporting the broader Alensi portfolio:
 
 ```text
 ALENSI
@@ -176,7 +176,7 @@ ALENSI
 ├── Alensi Flow
 │   Workflow & Automation
 │
-└── Alensi Platform
+└── Alensi Observe
     Developer Platform & Observability
 ```
 
